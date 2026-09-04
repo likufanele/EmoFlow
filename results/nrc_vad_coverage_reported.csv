@@ -1,0 +1,7 @@
+task,split,instances,segments,tokens,token_coverage_percent,zero_coverage_segment_percent
+state_current,development,25295,75790,660665,67.6,0.11
+state_current,test,22770,68258,595606,67.56,0.13
+forecast_next,development,20236,50495,435647,67.21,0.12
+forecast_next,test,18216,45488,392556,67.19,0.15
+forecast_change_subset,development,13505,34964,301198,67.3,0.11
+forecast_change_subset,test,12812,33067,284631,67.33,0.11
